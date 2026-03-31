@@ -1,16 +1,3 @@
-"""
-Self-contained Digital Image Processing assignment solution.
-
-How to run:
-    python week_10_segmentation_edges_challenges_assignment.py
-
-Optional:
-    Put your own image in the same folder and set IMAGE_PATH below.
-    If IMAGE_PATH is None or the file is missing, the script uses a built-in sample image.
-
-Libraries:
-    pip install opencv-python matplotlib scikit-image pillow
-"""
 
 from pathlib import Path
 
